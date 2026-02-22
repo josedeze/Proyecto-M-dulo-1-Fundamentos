@@ -78,10 +78,10 @@ Conceptos aplicados:
 ## Enlaces:
 
 ### 1. Github
-Repositorio GitHub: ()
+Repositorio GitHub: (https://github.com/josedeze/Proyecto-M-dulo-1-Fundamentos/tree/main)
 
 ### 2. Streamlit
-Aplicación en Streamlit Cloud: ()
+Aplicación en Streamlit Cloud: (https://proyecto-m-dulo-1-fundamentos-joseluisdezelaquispe.streamlit.app/)
 
 
 
